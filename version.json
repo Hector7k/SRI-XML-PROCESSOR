@@ -1,8 +1,8 @@
 {
   "version": "4.2.0",
   "download_url": "https://github.com/Hector7k/SRI-XML-PROCESSOR/releases/download/v4.2.0/AxionFiscal_Setup_v4.2.0.exe",
-  "sha256": "2e66b7a3b34fbbf369107507dea531b99efab004242c25aa2403703244c15d11",
-  "size": 18028751,
+  "sha256": "e110280ca44ed87ec4181dc60fec3e8f89075443a808e2c656224c23e77ad771",
+  "size": 18031882,
   "notes": "Actualizacion v4.2.0",
-  "signature": "CC4L+W/ZBGrO3nhpLoDhulkfaI4w5n7e1m9D1NUqysVMrecwonKmAI0OfuplR46Vu+Ob0aQIwO9vebmsXS/LDg=="
+  "signature": "661YmgcNaORfooP9m7Wui0GluJXTv/h3blTfX2heIPEsYyAek+MsgKNTHG6CFudr1MbSL7htTcqQjESy+JG2Dg=="
 }
